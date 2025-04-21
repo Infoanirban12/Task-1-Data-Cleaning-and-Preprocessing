@@ -10,15 +10,18 @@ Clean and preprocess the Supermarket Sales dataset to make it ready for analysis
 
 ## ✅ Steps Performed
 - Removed duplicates
-- Standardized column names (lowercase, underscores)
 - Converted `date` to `dd/mm/yyyy` format
 - Converted `time` to proper time type
+- Standardized column names (lowercase, underscores)
 - Standardized text fields (e.g., Gender, Payment)
 - Exported cleaned dataset
 
+## 📁 Input Dataset
+- `https://www.kaggle.com/code/markmedhat/sales-analysis-and-visualization/input`
+  
 ## 📁 Output Files
 - `cleaned_supermarket_sales.csv`
-- `cleaning_script.py`
+- `cleaning_script.ipynb`
 - `README.md`
 
 ## 🚫 Notes
@@ -26,4 +29,4 @@ Clean and preprocess the Supermarket Sales dataset to make it ready for analysis
 - Dataset is now analysis-ready
 
 ## 👨‍💻 Author
-Your Name – [GitHub](https://github.com/your-username)
+Anirban Kar – [GitHub]([https://github.com/your-username](https://github.com/Infoanirban12))
